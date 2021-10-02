@@ -1,0 +1,7 @@
+.grid {
+    -fx-padding: 12px;
+    -fx-border-insets: 12px;
+    -fx-background-insets: 12px;
+    -fx-grid-lines-visible: true;
+    -fx-background-color: azure;
+}
